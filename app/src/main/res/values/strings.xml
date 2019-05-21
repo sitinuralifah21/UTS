@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Friend Book</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="friends">Friends</string>
+</resources>
